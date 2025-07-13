@@ -26,8 +26,8 @@ This project demonstrates how to generate, send, and verify OTPs through the com
 🛠️ Setup Instructions
   1. Clone the repository
 
-    git clone https://github.com/your-username/otp-verification-system.git
-    cd otp-verification-system
+    git clone https://github.com/nr3nov/OTP-Verification-System-using-Python.git
+    cd OTP-Verification-System-using-Python
   
   2. Install requirements
      No external packages required. Works with standard Python libraries.
