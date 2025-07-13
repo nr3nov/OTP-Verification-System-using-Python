@@ -1,10 +1,10 @@
-🔐 OTP Verification System using Python
+# **🔐 OTP Verification System using Python**
 
 A simple OTP (One-Time Password) verification system built using Python. 
 This project demonstrates how to generate, send, and verify OTPs through the command line or via email.
 
                 
-📌 Features
+## **📌 Features**
 
 * Generates random numeric OTPs
 
@@ -15,7 +15,7 @@ This project demonstrates how to generate, send, and verify OTPs through the com
 * Validates OTP within a specified number of attempts
 
 
-🚀 Technologies Used
+## **🚀 Technologies Used**
 
 * Python 3.x
 
@@ -23,44 +23,52 @@ This project demonstrates how to generate, send, and verify OTPs through the com
 
 * random for OTP generation
 
-🛠️ Setup Instructions
-  1. Clone the repository
+## **🛠️ Setup Instructions**
+ ### **1. Clone the repository**
 
-    git clone https://github.com/nr3nov/OTP-Verification-System-using-Python.git
-    cd OTP-Verification-System-using-Python
+     > git clone https://github.com/nr3nov/OTP-Verification-System-using-Python.git
+       cd OTP-Verification-System-using-Python 
   
-  2. Install requirements
+ ### **2. Install requirements**
+ 
      No external packages required. Works with standard Python libraries.
 
-  3. Run the program
+ ###  **3. Run the program**
   
-    CapstoneProject_OTP_Verification.ipynb
+    > CapstoneProject_OTP_Verification.ipynb 
 
-  4. Configure email 
+ ### **4. Configure email** 
   
   * Update the following with your credentials:
 
-    python
+    >   python
 
-    Enter sender email: = "your@gmail.com"
-    Enter sender email password: = "uiytrewsdfgbnhyt"  # use the app password instead of your google password for your smtp.
-    Enter receiver email: "receiver@gmail.com"
+        Enter sender email: = "your@gmail.com"
     
-🧪 Example
+        Enter sender email password: = "uiytrewsdfgbnhyt"  # use the app password instead of your google password for your smtp.
+    
+        Enter receiver email: "receiver@gmail.com" 
+    
+## **🧪 Example**
 
-OTP sent to your@gmail.com.
-Enter the OTP sent to your email: 837201
-OTP Verified Successfully!
+ >  OTP sent to your@gmail.com.
 
-📂 File Structure
+    Enter the OTP sent to your email: 837201
 
-otp-verification-system/
-├── CapstoneProject_OTP_Verification.ipynb       # Main script for OTP generation and verification
-├── README.md                                    # Project description
+    OTP Verified Successfully! 
 
-📝 License
+## **📂 File Structure**
+
+  >  OTP-Verification-System-using-Python/
+
+     ├── CapstoneProject_OTP_Verification.ipynb       # Main script for OTP generation and verification
+
+     ├── README.md                                    # Project description 
+
+## **📝 License**
 This project is licensed under the MIT License.
 
-🙋‍♀️ Author
+## **🙋‍♀️ Author**
 Neha Rastogi
-[GitHub Profile](https://github.com/nr3nov)
+
+(https://github.com/nr3nov)
