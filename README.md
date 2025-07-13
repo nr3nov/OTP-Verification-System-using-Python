@@ -1,23 +1,27 @@
 🔐 OTP Verification System using Python
+
 A simple OTP (One-Time Password) verification system built using Python. 
 This project demonstrates how to generate, send, and verify OTPs through the command line or via email.
+
                 
 📌 Features
-Generates random numeric OTPs
 
-Verifies OTP entered by the user
+* Generates random numeric OTPs
 
-Sends OTP via email using SMTP
+* Verifies OTP entered by the user
 
-Validates OTP within a specified time limit
+* Sends OTP via email using SMTP
 
-Command-line based interface
+* Validates OTP within a specified time limit
+
+* Command-line based interface
 
 🚀 Technologies Used
-Python 3.x
 
-smtplib for sending emails (optional)
+* Python 3.x
 
-random for OTP generation
+* smtplib for sending emails 
 
-time for OTP expiry handling
+* random for OTP generation
+
+* time for OTP expiry handling
